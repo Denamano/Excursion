@@ -19,6 +19,12 @@ body {
   color: gray;
 }
 
+.copyright {
+  font-size: 21px;
+  color: grey;
+  text-align: right;
+}
+
 .link-a {
   color: aquamarine;
   font-size: 16px;
